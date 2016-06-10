@@ -1,4 +1,4 @@
-• WEEKEND CHALLENGE 1 DESCRIPTION •
+# WEEKEND CHALLENGE 1 DESCRIPTION 
 
 For your weekend challenge, you will need to create an application that records employees along with their salary. We also want to add the salaries up so we know how much we’re spending each month.
 
